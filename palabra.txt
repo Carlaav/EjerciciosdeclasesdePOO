@@ -1,0 +1,7 @@
+--Start log-- 
+palabra
+palabra
+palabra
+palabra
+palabra
+--End log: 6 log(s)-- 
